@@ -1,0 +1,16 @@
+#count{
+    font-size: 10rem;
+    display: block;
+    text-align: center;
+}
+.container{
+    align: center;
+
+    font-size: 1.5rem;
+    transition: background-color 0.25s;
+    
+}
+
+.container{
+    text-align: center;
+}
